@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [**Edutor App**](https://edutorapp.com/)
 
-- 🌱 I’m currently learning **```Deep Learning, Machine Learning and LLM```**
+- 🌱 I’m currently Learn **```Deep Learning, Machine Learning and LLM```**
 
 - 📫 How to reach me **joshichiragbhai4444@gmail.com**
 
