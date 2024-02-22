@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/chiragjoshi12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiragjoshi12" height="30" width="40" /></a>
 <a href="https://kaggle.com/chiragjoshi12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chiragjoshi12" height="30" width="40" /></a>
 <a href="https://instagram.com/chiragjoshi_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chiragjoshi_12" height="30" width="40" /></a>
-<a href="https://medium.com/@chiragjoshi_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chiragjoshi_12" height="30" width="40" /></a>
+<a href="https://medium.com/@chiragjoshi_12" target="blank"><img align="center" src="https://seekvectorlogo.com/wp-content/uploads/2021/12/medium-vector-logo-2021.png" alt="@chiragjoshi_12" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
