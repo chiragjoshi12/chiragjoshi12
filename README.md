@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chirag Joshi</h1>
 <!-- <h3 align="center">Making Humanity better By AI Racing</h3> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=herculess07&label=Profile%20views&color=0e75b6&style=flat" alt="herculess07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragjoshi12&label=Profile%20views&color=0e75b6&style=flat" alt="herculess07" /> </p>
 
 I'm 13 years old AI builder. Making Humanity better by racing towards achieving abundance of INTELLIGENCE. Proud member of Edutor AI Community - Building AI for Education.
 
