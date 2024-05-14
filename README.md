@@ -1,13 +1,27 @@
+<div align="center">
+<img alt="desktop-oil-painting" src="https://raw.githubusercontent.com/chiragjoshi12/chiragjoshi12/main/images/Black%20Photo%20Attorney%20at%20Law%20LinkedIn%20Banner.png">
+</div>
+
 <h1 align="center">Hi 👋, I'm Chirag Joshi</h1>
 <!-- <h3 align="center">Making Humanity better By AI Racing</h3> -->
 
 I'm 13 years old AI builder. Making Humanity better by racing towards achieving abundance of INTELLIGENCE. Proud member of Edutor AI Community - Building AI for Education.
 <br>
 
+- 📫 How to reach me - Send an email [joshichiragbhai4444@gmail.com](mailto:joshichiragbhai4444@gmail.com)
+
 ### 📊 GitHub Stats:
+
 <img src="https://profile-counter.glitch.me/chiragjoshi12/count.svg" alt="Chirag Joshi :: Visitor's Count" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=chiragjoshi12&theme=dark&hide_border=true)<br/>
+<img alt="Chirag's's GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=chiragjoshi12"/><br>
+
+<div align="center">
+  <br>
+  <img alt="Chirag's's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=chiragjoshi12&show_icons=true&locale=en&theme=cobalt"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiragjoshi12&show_icons=true&locale=en&layout=compact&theme=cobalt"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
