@@ -3,25 +3,17 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Chirag Joshi</h1>
-<!-- <h3 align="center">Making Humanity better By AI Racing</h3> -->
+<h3 align="center">Making Humanity better by racing towards achieving abundance of INTELLIGENCE.</h3>
 
-I'm 13 years old AI builder. Making Humanity better by racing towards achieving abundance of INTELLIGENCE. Proud member of Edutor AI Community - Building AI for Education.
+Hey there! 👋 I'm Chirag Joshi, a 14-year-old AI builder. I've been working as an AI researcher and builder at an ed-tech startup for the past year.
+
+Proud member of [Edutor App](http://edutorapp.com), an open-source platform where teachers create content and students access it via a mobile app (250K+ downloads) and a web app (100K+ users). My role involves understanding requirements and building AI solutions to tackle educational problems, making education more accessible and futuristic. I'm skilled in Python and am also learning about large language models, different AI architectures, and more about AI. **- Building AI for Education.**
 <br>
 
 - 📫 How to reach me - Send an email [joshichiragbhai4444@gmail.com](mailto:joshichiragbhai4444@gmail.com)
 
 ### 📊 GitHub Stats:
-
 <img src="https://profile-counter.glitch.me/chiragjoshi12/count.svg" alt="Chirag Joshi :: Visitor's Count" />
-
-<img alt="Chirag's's GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=chiragjoshi12"/><br>
-
-<div align="center">
-  <br>
-  <img alt="Chirag's's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=chiragjoshi12&show_icons=true&locale=en&theme=cobalt"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiragjoshi12&show_icons=true&locale=en&layout=compact&theme=cobalt"/>
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
