@@ -3,9 +3,9 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Chirag Joshi</h1>
-<h3 align="center">Making Humanity better by racing towards achieving abundance of INTELLIGENCE.</h3>
+<!-- <h3 align="center">Making Humanity better by racing towards achieving abundance of INTELLIGENCE.</h3> -->
 
-Hello, I'm Chirag. . AI enthusiast (love to built AI application & models training). My primary field of work is Deep Learning & LLM. I'm passionate about AI, Deep Learning, LLM, Neural Networks & Programming.
+Hello, I'm <strong>Chirag</strong>. . AI enthusiast <strong>(love to built AI application & models training)</strong>. My primary field of work is Deep Learning & LLM. I'm passionate about AI, Deep Learning, LLM, Neural Networks & Programming.
 
 - 📫 How to reach me - Send an email [chirag.edutorai@gmail.com](mailto:chirag.edutorai@gmail.com)
 
