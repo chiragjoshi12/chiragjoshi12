@@ -5,10 +5,7 @@
 <h1 align="center">Hi 👋, I'm Chirag Joshi</h1>
 <h3 align="center">Making Humanity better by racing towards achieving abundance of INTELLIGENCE.</h3>
 
-Hey there! 👋 I'm Chirag Joshi, a 14-year-old AI builder. I've been working as an AI researcher and builder at an ed-tech startup for the past year.
-
-Proud member of [Edutor App](http://edutorapp.com), an open-source platform where teachers create content and students access it via a mobile app (250K+ downloads) and a web app (100K+ users). My role involves understanding requirements and building AI solutions to tackle educational problems, making education more accessible and futuristic. I'm skilled in Python and am also learning about large language models, different AI architectures, and more about AI. **- Building AI for Education.**
-<br>
+Hello, I'm Chirag. . AI enthusiast (love to built AI application & models training). My primary field of work is Deep Learning & LLM. I'm passionate about AI, Deep Learning, LLM, Neural Networks & Programming.
 
 - 📫 How to reach me - Send an email [chirag.edutorai@gmail.com](mailto:chirag.edutorai@gmail.com)
 
@@ -19,7 +16,6 @@ Proud member of [Edutor App](http://edutorapp.com), an open-source platform wher
 <p align="left">
 <a href="https://twitter.com/chiragjoshi_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiragjoshi_12" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chiragjoshi12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiragjoshi12" height="30" width="40" /></a>
-<a href="https://kaggle.com/chiragjoshi12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chiragjoshi12" height="30" width="40" /></a>
 <a href="https://instagram.com/chiragjoshi_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chiragjoshi_12" height="30" width="40" /></a>
 <a href="[https://medium.com/@chiragjoshi_12](https://medium.com/@chirag-ai)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chiragjoshi_12" height="30" width="40" /></a>
 </p>
