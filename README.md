@@ -12,7 +12,7 @@ Hello, I'm <strong>Chirag</strong>. . AI enthusiast <strong>(love to built AI ap
 ### 📊 GitHub Stats:
 <img src="https://profile-counter.glitch.me/chiragjoshi12/count.svg" alt="Chirag Joshi :: Visitor's Count" />
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chiragjoshi_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiragjoshi_12" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chiragjoshi12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiragjoshi12" height="30" width="40" /></a>
