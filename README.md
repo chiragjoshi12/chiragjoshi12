@@ -1,8 +1,8 @@
 <div align="center">
-<img alt="desktop-oil-painting" src="https://raw.githubusercontent.com/chiragjoshi12/chiragjoshi12/main/images/Black%20Photo%20Attorney%20at%20Law%20LinkedIn%20Banner.png">
+<img alt="desktop-oil-painting" src="https://raw.githubusercontent.com/chiragjoshi12/chiragjoshi12/main/images/Banner.png">
 </div>
 
-<h1 align="center">Hi 👋, I'm Chirag Joshi</h1>
+<h1 align="center">Hi 👋, I'm Chirag</h1>
 <!-- <h3 align="center">Making Humanity better by racing towards achieving abundance of INTELLIGENCE.</h3> -->
 
 Hello, I'm <strong>Chirag</strong>. . AI enthusiast <strong>(love to built AI application & models training)</strong>. My primary field of work is Deep Learning & LLM. I'm passionate about AI, Deep Learning, LLM, Neural Networks & Programming.
