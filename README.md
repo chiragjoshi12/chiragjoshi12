@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Chirag</h1>
 <!-- <h3 align="center">Making Humanity better by racing towards achieving abundance of INTELLIGENCE.</h3> -->
 
-Hello, I'm <strong>Chirag</strong>. . AI enthusiast <strong>(love to built AI application & models training)</strong>. My primary field of work is Deep Learning & LLM. I'm passionate about AI, Deep Learning, LLM, Neural Networks & Programming.
+Hello, I'm <strong>Chirag</strong>. . Building AI at [Edutor App](https://edutorapp.com/). <strong>love to built AI application & models training</strong>. maximizing technical depth within Deep Learning.
 
 - 📫 How to reach me - Send an email [chirag.edutorai@gmail.com](mailto:chirag.edutorai@gmail.com)
 
